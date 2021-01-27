@@ -182,7 +182,7 @@ spring.cloud.nacos.config.group=DEFAULT_GROUP
 
 
 
-![nacos](Spring-dairy.assets/nacos-1757464.png)
+![nacos](Spring-dairy.assets/nacos.png)
 
 ![nacos_config](Spring-dairy.assets/nacos_config.png)
 
